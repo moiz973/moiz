@@ -40,9 +40,12 @@ All information about users, inbox and password for each people are stored in pr
 - Log out
 
 ## Pictures
--log in page
+-Log in Page
 ![Login Page](https://user-images.githubusercontent.com/96349538/208433479-a2330a35-dc88-455a-be0f-d3523f694c5b.png)
 <br/>
+-Sign up Page
+![Sign up page](https://user-images.githubusercontent.com/96349538/208433985-d0c624fc-875c-48eb-a320-ae39514e2623.png)
+
 
 
 ## Tables used in the project
