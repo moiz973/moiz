@@ -45,6 +45,17 @@ All information about users, inbox and password for each people are stored in pr
 <br/>
 -Sign up Page
 ![Sign up page](https://user-images.githubusercontent.com/96349538/208433985-d0c624fc-875c-48eb-a320-ae39514e2623.png)
+<br/>
+-Compose Page
+![Compose Page](https://user-images.githubusercontent.com/96349538/208434232-c7212586-e71f-4f16-9a8f-b7e05f7f9d80.png)
+<br/>
+-Detail Page
+![Detail Page](https://user-images.githubusercontent.com/96349538/208434419-d5e47b2d-739a-4606-9b9a-e0b469e5a555.png)
+<br/>
+-Inbox Page
+![Inbox Page](https://user-images.githubusercontent.com/96349538/208435001-e315feb9-d565-4426-a95f-f81bb0bddd9e.png)
+
+
 
 
 
